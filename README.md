@@ -12,6 +12,8 @@
   </picture>
 </p>
 
+<hr>
+
 <h3 align="center">🚀 PROJECTS I'M WORKING ON</h3>
 <p align="center">
     <a href="https://github.com/perfectolyle/Amazon-Project">
@@ -82,14 +84,13 @@
   </p>
 </details>
 
-<hr>
 
 <!-- ✨ SECTION 4: CONTACT -->
-<details>
+<!-- <details>
   <summary><h3>🔗 CONNECT WITH ME (Click to expand)</h3></summary>
   <p align="center">
     <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
   </p>
-</details>
+</details> -->
