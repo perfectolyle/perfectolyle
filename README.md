@@ -28,6 +28,7 @@
 <!-- ✨ SECTION 2: TECH STACK -->
 <details>
   <summary><h3>🛠️ TECH STACK & SKILLS (Click to expand)</h3></summary>  
+  
   **💻 Programming Languages**
   <p align="left">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
