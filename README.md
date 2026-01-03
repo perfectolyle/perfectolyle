@@ -2,7 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20B2AA&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+ImPerfect+%F0%9F%91%8B;Full-Stack+Developer;BS+Information+Systems+Student" alt="Typing SVG" />
 </h1>
 
-
+<p align="center">
+    <a href="https://github.com/perfectolyle/Amazon-Project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=Amazon-Project&theme=tokyonight&show_icons=true" alt="Main Project" />
+    </a>
+</p>
 <!-- 🐍 THE CONTRIBUTION SNAKE BANNER -->
 <p align="center">
   <picture>
@@ -68,19 +72,7 @@
 
 <hr>
 
-<!-- ✨ SECTION 3: PROJECTS -->
-<details>
-  <summary><h3>🚀 PROJECTS I'M WORKING ON (Click to expand)</h3></summary>
-  <p align="center">
-    <a href="https://github.com/perfectolyle/Amazon-Project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=Amazon-Project&theme=tokyonight&show_icons=true" alt="Main Project" />
-    </a>
-  </p>
-</details>
-
-<hr>
-
-<!-- ✨ SECTION 4: GITHUB STATS -->
+<!-- ✨ SECTION 3: GITHUB STATS -->
 <details>
   <summary><h3>📈 MY GITHUB STATS (Click to expand)</h3></summary>
   <p align="center">
@@ -90,7 +82,7 @@
 
 <hr>
 
-<!-- ✨ SECTION 5: CONTACT -->
+<!-- ✨ SECTION 4: CONTACT -->
 <details>
   <summary><h3>🔗 CONNECT WITH ME (Click to expand)</h3></summary>
   <p align="center">
