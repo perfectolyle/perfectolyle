@@ -12,28 +12,22 @@
   </picture>
 </p>
 
-<br>
-
 <!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
 <details open>
   <summary><h3>👨‍💻 ABOUT ME (Click to expand)</h3></summary>
-  <br>
   <ul>
     <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
     <li>💻 Energetically learning and building with <b>React Native</b> & <b>Laravel</b>.</li>
     <li>🚀 Deeply interested in <b>IT Support, System Administration, and Full-Stack Development</b>.</li>
     <li>🤝 Always looking to collaborate on tech projects and expand my IT toolkit.</li>
   </ul>
-  <br>
 </details>
 
 <hr>
 
 <!-- ✨ SECTION 2: TECH STACK -->
 <details>
-  <summary><h3>🛠️ TECH STACK & SKILLS (Click to expand)</h3></summary>
-  <br>
-  
+  <summary><h3>🛠️ TECH STACK & SKILLS (Click to expand)</h3></summary>  
   **💻 Programming Languages**
   <p align="left">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -69,7 +63,6 @@
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
-  <br>
 </details>
 
 <hr>
@@ -77,13 +70,11 @@
 <!-- ✨ SECTION 3: PROJECTS -->
 <details>
   <summary><h3>🚀 PROJECTS I'M WORKING ON (Click to expand)</h3></summary>
-  <br>
   <p align="center">
     <a href="https://github.com/perfectolyle/Amazon-Project">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=Amazon-Project&theme=tokyonight&show_icons=true" alt="Main Project" />
     </a>
   </p>
-  <br>
 </details>
 
 <hr>
@@ -91,17 +82,9 @@
 <!-- ✨ SECTION 4: GITHUB STATS -->
 <details>
   <summary><h3>📈 MY GITHUB STATS (Click to expand)</h3></summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=perfectolyle&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectolyle&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </p>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectolyle&theme=tokyonight" alt="GitHub Streak" />
   </p>
-  <br>
 </details>
 
 <hr>
@@ -109,11 +92,9 @@
 <!-- ✨ SECTION 5: CONTACT -->
 <details>
   <summary><h3>🔗 CONNECT WITH ME (Click to expand)</h3></summary>
-  <br>
   <p align="center">
     <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
   </p>
-  <br>
 </details>
