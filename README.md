@@ -30,7 +30,7 @@
   </ul>
 </details>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ✨ SECTION 2: TECH STACK -->
 <details>
@@ -73,7 +73,7 @@
   </p>
 </details>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ✨ SECTION 3: GITHUB STATS -->
 <details>
