@@ -15,10 +15,11 @@
 
 <h3 align="center">🚀 PROJECT I'M WORKING ON</h3>
 <p align="center">
-  <a href="https://github.com/perfectolyle/Amazon-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=Amazon-Project&theme=tokyonight&show_icons=true" alt="Main Project" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=perfectolyle&theme=tokyonight&margin-w=15" alt="Trophies" />
   </a>
 </p>
+
 <!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
 <summary><h3>👨‍💻 ABOUT ME</h3></summary>
   <ul>
