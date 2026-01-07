@@ -16,7 +16,7 @@
 <h3 align="center">🚀 PROJECT/S I'M WORKING ON</h3>
 <p align="center">
     <a href="https://github.com/perfectolyle/Amazon-Project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=Amazon-Project&theme=tokyonight&show_icons=true" alt="Main Project" />
+    [![Amazon Project](https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=Amazon-Project&theme=tokyonight&show_icons=true)](https://github.com/perfectolyle/Amazon-Project)
     </a>
 </p>
 <!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
