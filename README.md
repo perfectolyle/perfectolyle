@@ -13,11 +13,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h3 align="center">🚀 PROJECT/S I'M WORKING ON</h3>
+<h3 align="center">🚀 PROJECT I'M WORKING ON</h3>
 <p align="center">
-    <a href="https://github.com/perfectolyle/Amazon-Project">
-    [![Amazon Project](https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=Amazon-Project&theme=tokyonight&show_icons=true)](https://github.com/perfectolyle/Amazon-Project)
-    </a>
+  <a href="https://github.com/perfectolyle/Amazon-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=Amazon-Project&theme=tokyonight&show_icons=true" alt="Main Project" />
+  </a>
 </p>
 <!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
 <summary><h3>👨‍💻 ABOUT ME</h3></summary>
