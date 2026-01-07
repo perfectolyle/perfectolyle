@@ -13,14 +13,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h3 align="center">🚀 PROJECTS I'M WORKING ON</h3>
+<h3 align="center">🚀 PROJECT/S I'M WORKING ON</h3>
 <p align="center">
     <a href="https://github.com/perfectolyle/Amazon-Project">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=Amazon-Project&theme=tokyonight&show_icons=true" alt="Main Project" />
     </a>
 </p>
 <!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
-<summary><h3>👨‍💻 ABOUT ME (Click to expand)</h3></summary>
+<summary><h3>👨‍💻 ABOUT ME</h3></summary>
   <ul>
     <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
     <li>💻 Energetically learning and building with <b>React Native</b> & <b>Laravel</b>.</li>
