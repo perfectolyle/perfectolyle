@@ -16,7 +16,7 @@
 <h3 align="center">🚀 PROJECT I'M WORKING ON</h3>
 <p align="center">
   <a href="https://github.com/perfectolyle/Amazon-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=Amazon-Project&theme=tokyonight&show_icons=true" alt="Main Project" />
+    <img src="https://gh-card.dev/repos/perfectolyle/Amazon-Project.svg" alt="Amazon Project Card" />
   </a>
 </p>
 
