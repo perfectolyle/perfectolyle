@@ -16,7 +16,7 @@
 <h3 align="center">🚀 PROJECT I'M WORKING ON</h3>
 <p align="center">
   <a href="https://github.com/perfectolyle/Amazon-Project">
-    <img src="https://img.shields.io/badge/Amazon--Project-Link_To_Repository-252739?style=for-the-badge&logo=github&logoColor=white" alt="Amazon Project Button" />
+    <img src="https://img.shields.io/badge/Amazon--Project-252739?style=for-the-badge&logo=github&logoColor=white" alt="Amazon Project Button" />
   </a>
 </p>
 
