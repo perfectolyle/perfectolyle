@@ -16,9 +16,10 @@
 <h3 align="center">🚀 PROJECT I'M WORKING ON</h3>
 <p align="center">
   <a href="https://github.com/perfectolyle/Amazon-Project">
-    <img src="https://gh-card.dev/repos/perfectolyle/Amazon-Project.svg" alt="Amazon Project Card" />
+    <img src="https://img.shields.io/badge/Amazon--Project-Link_To_Repository-252739?style=for-the-badge&logo=github&logoColor=white" alt="Amazon Project Button" />
   </a>
 </p>
+
 
 <!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
 <summary><h3>👨‍💻 ABOUT ME</h3></summary>
