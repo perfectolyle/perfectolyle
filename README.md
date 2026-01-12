@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20B2AA&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+ImPerfect+%F0%9F%91%8B;Full-Stack+Developer;BS+Information+Systems+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+ImPerfect+%F0%9F%91%8B;Full-Stack+Developer;BS+Information+Systems+Student" alt="Typing SVG" />
 </h1>
 
 <!-- 🐍 THE CONTRIBUTION SNAKE BANNER -->
