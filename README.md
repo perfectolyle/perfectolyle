@@ -1,11 +1,5 @@
-<!-- ✨ THE OUTER SPACE BANNER (Animated Pixel Art Space) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/8fb695e263c9b10c9c7e090a9afb69e160a2b53f/assets/Cool-Gifs%20(1).gif" width="100%" alt="Space Banner" />
-</p>
-
-<!-- 🛸 DYNAMIC INTRO TEXT -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+ImPerfect+%F0%9F%91%8B;Full-Stack+Developer;BS+Information+Systems+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20B2AA&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+ImPerfect+%F0%9F%91%8B;Full-Stack+Developer;BS+Information+Systems+Student" alt="Typing SVG" />
 </h1>
 
 <!-- 🐍 THE CONTRIBUTION SNAKE BANNER -->
@@ -17,19 +11,18 @@
   </picture>
 </p>
 
-<!-- ✨ SECTION DIVIDER (Shooting Stars) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h3 align="center">🚀 PROJECT I'M WORKING ON</h3>
 <p align="center">
   <a href="https://github.com/perfectolyle/Amazon-Project">
-    <!-- Shiny Button -->
-    <img src="https://img.shields.io/badge/Amazon--Project-View_Live_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Amazon Project Button" />
+    <img src="https://img.shields.io/badge/Amazon--Project-252739?style=for-the-badge&logo=github&logoColor=white" alt="Amazon Project Button" />
   </a>
 </p>
 
+
 <!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
-<summary><h3>👨💻 ABOUT ME</h3></summary>
+<summary><h3>👨‍💻 ABOUT ME</h3></summary>
   <ul>
     <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
     <li>💻 Energetically learning and building with <b>React Native</b> & <b>Laravel</b>.</li>
@@ -37,7 +30,6 @@
     <li>🤝 Always looking to collaborate on tech projects and expand my IT toolkit.</li>
   </ul>
 
-<!-- ✨ SECTION DIVIDER (Shooting Stars) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ✨ SECTION 2: TECH STACK -->
@@ -81,28 +73,16 @@
   </p>
 </details>
 
-<!-- ✨ SECTION DIVIDER (Shooting Stars) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ✨ SECTION 3: GITHUB STATS -->
 <details>
   <summary><h3>📈 MY GITHUB STATS (Click to expand)</h3></summary>
-  <!-- 🏆 DYNAMIC GAMIFICATION TROPHIES -->
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=perfectolyle&theme=tokyonight&margin-w=15&row=1&column=4" alt="Trophies" />
-    </a>
-  </p>
-
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectolyle&theme=tokyonight" alt="GitHub Streak" />
   </p>
-
-  <!-- 📊 DYNAMIC ACTIVITY LINE GRAPH -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=perfectolyle&theme=tokyonight&hide_border=true&area=true" width="100%" />
-  </p>
 </details>
+
 
 <!-- ✨ SECTION 4: CONTACT -->
 <!-- <details>
