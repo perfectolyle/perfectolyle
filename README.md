@@ -8,15 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+ImPerfect+%F0%9F%91%8B;Full-Stack+Developer;BS+Information+Systems+Student" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/7iquid/7iquid/main/assets/developer.gif" width="200" />
-</p>
-
-<!-- ✨ SECTION DIVIDER (Shooting Stars) -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 <!-- 🐍 THE CONTRIBUTION SNAKE BANNER -->
 <p align="center">
   <picture>
@@ -26,27 +17,33 @@
   </picture>
 </p>
 
-<br>
+<!-- ✨ SECTION DIVIDER (Shooting Stars) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<h3 align="center">🚀 PROJECT I'M WORKING ON</h3>
+<p align="center">
+  <a href="https://github.com/perfectolyle/Amazon-Project">
+    <!-- Shiny Button -->
+    <img src="https://img.shields.io/badge/Amazon--Project-View_Live_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Amazon Project Button" />
+  </a>
+</p>
 
 <!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
-<details open>
-  <summary><h3>👨‍💻 ABOUT ME (Click to expand)</h3></summary>
-  <br>
+<summary><h3>👨💻 ABOUT ME</h3></summary>
   <ul>
     <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
     <li>💻 Energetically learning and building with <b>React Native</b> & <b>Laravel</b>.</li>
     <li>🚀 Deeply interested in <b>IT Support, System Administration, and Full-Stack Development</b>.</li>
     <li>🤝 Always looking to collaborate on tech projects and expand my IT toolkit.</li>
   </ul>
-  <br>
-</details>
 
-<hr>
+<!-- ✨ SECTION DIVIDER (Shooting Stars) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ✨ SECTION 2: TECH STACK -->
 <details>
-  <summary><h3>🛠️ TECH STACK & SKILLS (Click to expand)</h3></summary>
-  <br>
+  <summary><h3>🛠️ TECH STACK & SKILLS (Click to expand)</h3></summary>  
+  
   **💻 Programming Languages**
   <p align="left">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -67,6 +64,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/NativeWind-000000?style=for-the-badge&logo=react&logoColor=white" alt="NativeWind" />
   </p>
 
   **⚛️ Frameworks & Libraries**
@@ -75,30 +73,20 @@
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   </p>
-  <br>
-</details>
 
-<hr>
-
-<!-- ✨ SECTION 3: PROJECTS -->
-<details>
-  <summary><h3>🚀 PROJECTS I'M WORKING ON (Click to expand)</h3></summary>
-  <br>
-  <p align="center">
-    <!-- Replaced Server Card with an amazing Dynamic Shiny Button! -->
-    <a href="https://github.com/perfectolyle/Amazon-Project">
-      <img src="https://img.shields.io/badge/Amazon--Project-View_Live_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Amazon Project Button" />
-    </a>
+  **🐳 Tools & Platforms**
+  <p align="left">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
-  <br>
 </details>
 
-<hr>
+<!-- ✨ SECTION DIVIDER (Shooting Stars) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ✨ SECTION 4: DYNAMIC GITHUB STATS & TROPHIES -->
+<!-- ✨ SECTION 3: GITHUB STATS -->
 <details>
   <summary><h3>📈 MY GITHUB STATS (Click to expand)</h3></summary>
-  <br>
   <!-- 🏆 DYNAMIC GAMIFICATION TROPHIES -->
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -114,19 +102,14 @@
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=perfectolyle&theme=tokyonight&hide_border=true&area=true" width="100%" />
   </p>
-  <br>
 </details>
 
-<hr>
-
-<!-- ✨ SECTION 5: CONTACT -->
-<details>
+<!-- ✨ SECTION 4: CONTACT -->
+<!-- <details>
   <summary><h3>🔗 CONNECT WITH ME (Click to expand)</h3></summary>
-  <br>
   <p align="center">
     <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
   </p>
-  <br>
-</details>
+</details> -->
