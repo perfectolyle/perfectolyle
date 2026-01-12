@@ -21,7 +21,8 @@
 </p>
 
 
-<!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
+<!-- ✨ SECTION 1: ABOUT ME (Open by default) -->\
+<details open>
 <summary><h3>👨‍💻 ABOUT ME</h3></summary>
   <ul>
     <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
@@ -29,6 +30,7 @@
     <li>🚀 Deeply interested in <b>IT Support, System Administration, and Full-Stack Development</b>.</li>
     <li>🤝 Always looking to collaborate on tech projects and expand my IT toolkit.</li>
   </ul>
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
