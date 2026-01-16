@@ -88,18 +88,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ✨ SECTION 4: PROJECTS & LESSONS -->
+<!-- ✨ SECTION 3: PROJECTS & LESSONS -->
 <details>
   <summary><h3>🚀 PROJECTS & LESSONS (Click to expand)</h3></summary>
-  <p align="center">
-    <br>
-    <b>Check out some of the things I am currently building and learning!</b><br><br>
-    <a href="https://github.com/perfectolyle/Amazon-Project">
-      <!-- Shiny Button for Amazon Project -->
-      <img src="https://img.shields.io/badge/Amazon--Project-February_2026-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Amazon Project Button" />
-    </a>
-    <!-- MORE PROJECTS CAN GO HERE BELOW! -->
-  </p>
+  <br>
+  <b>A log of the things I am currently building, learning, and experimenting with!</b>
+  <br><br>
+
+  | 📅 Date | 🚀 Project / Lesson | 📝 Description | 🛠️ Tech Stack Used |
+  | :---: | :--- | :--- | :--- |
+  | **Feb 2026** | 🛒 **[Amazon-Project](https://github.com/perfectolyle/Amazon-Project)** | A core interface and functionality clone of the popular e-commerce platform Amazon to master front-end UI/UX. | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JS-323330?style=flat&logo=javascript&logoColor=F7DF1E" /> |
+  | **Soon™** | ✨ **Next Project** | More awesome apps and websites coming soon as I continue developing my Full-Stack toolkit! | 🚧 *In Progress* |
+
 </details>
+
 
 <!-- ✨ SECTION 4: CONTACT -->
 <!-- <details>
