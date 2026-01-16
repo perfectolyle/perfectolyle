@@ -95,7 +95,7 @@
     <b>Check out some of the things I am currently building and learning!</b><br><br>
     <a href="https://github.com/perfectolyle/Amazon-Project">
       <!-- Shiny Button for Amazon Project -->
-      <img src="https://img.shields.io/badge/Amazon--Project-View_Live_Repository-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Amazon Project Button" />
+      <img src="https://img.shields.io/badge/Amazon--Project-February_2026-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Amazon Project Button" />
     </a>
     <!-- MORE PROJECTS CAN GO HERE BELOW! -->
   </p>
