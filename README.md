@@ -21,7 +21,7 @@
 </p>
 
 
-<!-- ✨ SECTION 1: ABOUT ME (Open by default) -->\
+<!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
 <details open>
 <summary><h3>👨‍💻 ABOUT ME</h3></summary>
   <ul>
