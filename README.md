@@ -24,7 +24,7 @@
 - 🎓 Currently pursuing a **BS in Information Systems**.
 - 💻 Energetically learning and building with **React Native** & **Laravel**.
 - 🚀 Deeply interested in **IT Support, System Administration, and Full-Stack Development**.
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 🤝 Always looking to collaborate on tech projects and expand my IT toolkit.
 
 ---
 
