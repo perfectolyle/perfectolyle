@@ -1,3 +1,13 @@
+<!-- Navigation Menu -->
+<p align="center">
+  <a href="#-about-me">About Me</a> •
+  <a href="#%EF%B8%8F-tech-stack--skills">Skills</a> •
+  <a href="#-project-im-working-on">Projects</a> •
+  <a href="#-my-github-stats">Stats & Top Languages</a> •
+  <a href="#-contribution-snake">Contribution Snake</a> •
+  <a href="#-connect-with-me">Connect</a>
+</p>
+
 <!-- Dynamic Shooting Stars Header -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -8,22 +18,27 @@
 <h3 align="center">A passionate BS Information Systems Student navigating the worlds of IT Support and Development.</h3>
 
 <p align="center">
+  <!-- Dynamic Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=perfectolyle&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   <!-- Animated Developer GIF -->
   <img src="https://raw.githubusercontent.com/7iquid/7iquid/main/assets/developer.gif" width="300" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<h2 id="-about-me">👨‍💻 About Me</h2>
 
 - 🎓 Currently pursuing a **BS in Information Systems**.
 - 💻 Energetically learning and building with **React Native** & **Laravel**.
 - 🚀 Deeply interested in **IT Support, System Administration, and Full-Stack Development**.
-- 🤝 Always looking to collaborate on tech projects and expand my IT toolkit.
+- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<h2 id="️-tech-stack--skills">🛠️ Tech Stack & Skills</h2>
 
 ### **💻 Programming Languages**
 <p align="left">
@@ -65,16 +80,12 @@
 
 ---
 
-## 🚀 Projects I'm Working On
+<h2 id="-project-im-working-on">🚀 Project I'm Working On</h2>
 
 <p align="center">
-  <!-- ⚠️ REPLACE 'repo-name-1' below with the actual name of your repository -->
-  <a href="https://github.com/perfectolyle/repo-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=repo-name-1&theme=transparent&hide_border=true&show_icons=true" alt="Project 1" />
-  </a>
-  <!-- ⚠️ REPLACE 'repo-name-2' below with the actual name of your repository -->
-  <a href="https://github.com/perfectolyle/repo-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=repo-name-2&theme=transparent&hide_border=true&show_icons=true" alt="Project 2" />
+  <!-- ⚠️ REPLACE 'repo-name' below with the actual name of your repository -->
+  <a href="https://github.com/perfectolyle/repo-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=repo-name&theme=transparent&hide_border=true&show_icons=true" alt="Main Project" />
   </a>
 </p>
 
@@ -82,7 +93,7 @@
 
 ---
 
-## 📈 My GitHub Stats
+<h2 id="-my-github-stats">📈 My GitHub Stats</h2>
 
 <p align="center">
   <!-- Dynamic GitHub Stats -->
@@ -94,14 +105,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectolyle&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
+---
+
+<h2 id="-contribution-snake">🐍 Contribution Snake</h2>
+
 <p align="center">
-  <!-- Dynamic Commit Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectolyle&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <!-- This image will automatically update every day after we set up the GitHub Action below! -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/perfectolyle/perfectolyle/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/perfectolyle/perfectolyle/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/perfectolyle/perfectolyle/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
-## 🔗 Connect with me
+<h2 id="-connect-with-me">🔗 Connect with me</h2>
 
 <p align="center">
   <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
