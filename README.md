@@ -8,11 +8,6 @@
 <h3 align="center">A passionate BS Information Systems Student navigating the worlds of IT Support and Development.</h3>
 
 <p align="center">
-  <!-- Dynamic Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=perfectolyle&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <!-- Animated Developer GIF -->
   <img src="https://raw.githubusercontent.com/7iquid/7iquid/main/assets/developer.gif" width="300" />
 </p>
