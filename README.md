@@ -79,7 +79,7 @@
 
 <p align="center">
   <!-- ⚠️ REPLACE 'repo-name' below with the actual name of your repository -->
-  <a href="https://github.com/perfectolyle/repo-name">
+  <a href="https://github.com/perfectolyle/Amazon-Project.git">
     <!-- Using a cool dark theme 'tokyonight' for the repo card -->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=repo-name&theme=tokyonight&show_icons=true" alt="Main Project" />
   </a>
