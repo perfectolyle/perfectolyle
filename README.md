@@ -8,7 +8,7 @@
   <a href="#-connect-with-me">Connect</a>
 </p>
 
-<!-- Dynamic Shooting Stars Header -->
+<!-- Animated Star Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h1 align="center">
@@ -18,25 +18,21 @@
 <h3 align="center">A passionate BS Information Systems Student navigating the worlds of IT Support and Development.</h3>
 
 <p align="center">
-  <!-- Dynamic Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=perfectolyle&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <!-- Animated Developer GIF -->
   <img src="https://raw.githubusercontent.com/7iquid/7iquid/main/assets/developer.gif" width="300" />
 </p>
 
----
+<!-- Animated Star Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h2 id="-about-me">👨‍💻 About Me</h2>
 
 - 🎓 Currently pursuing a **BS in Information Systems**.
 - 💻 Energetically learning and building with **React Native** & **Laravel**.
 - 🚀 Deeply interested in **IT Support, System Administration, and Full-Stack Development**.
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 🤝 Always looking to collaborate on tech projects and expand my IT toolkit.
 
----
+<br>
 
 <h2 id="️-tech-stack--skills">🛠️ Tech Stack & Skills</h2>
 
@@ -76,41 +72,45 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+<!-- Animated Star Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
----
 
 <h2 id="-project-im-working-on">🚀 Project I'm Working On</h2>
 
 <p align="center">
   <!-- ⚠️ REPLACE 'repo-name' below with the actual name of your repository -->
   <a href="https://github.com/perfectolyle/repo-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=repo-name&theme=transparent&hide_border=true&show_icons=true" alt="Main Project" />
+    <!-- Using a cool dark theme 'tokyonight' for the repo card -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectolyle&repo=repo-name&theme=tokyonight&show_icons=true" alt="Main Project" />
   </a>
 </p>
 
+<!-- Animated Star Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
----
 
 <h2 id="-my-github-stats">📈 My GitHub Stats</h2>
 
 <p align="center">
-  <!-- Dynamic GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=perfectolyle&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- Dynamic GitHub Stats (With Tokyonight Theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=perfectolyle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Dynamic Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectolyle&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <!-- Dynamic Top Languages (With Tokyonight Theme) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectolyle&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <!-- Dynamic Commit Streak (ADDED IT BACK! And with Tokyonight Theme) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectolyle&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<!-- Animated Star Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h2 id="-contribution-snake">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <!-- This image will automatically update every day after we set up the GitHub Action below! -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/perfectolyle/perfectolyle/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/perfectolyle/perfectolyle/output/github-contribution-grid-snake.svg">
@@ -118,7 +118,8 @@
   </picture>
 </p>
 
----
+<!-- Animated Star Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h2 id="-connect-with-me">🔗 Connect with me</h2>
 
@@ -127,6 +128,3 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
-
-<!-- Another row of stars at the bottom! -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
