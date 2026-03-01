@@ -103,7 +103,7 @@
 </details>
 
 
-<!-- ✨ 1, 2,     -->
+<!-- ✨ 1, 2, 3,     -->
 <!-- ✨ SECTION 4: CONTACT -->
 <!-- <details>
   <summary><h3>🔗 CONNECT WITH ME (Click to expand)</h3></summary>
