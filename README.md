@@ -41,6 +41,8 @@
 <!-- ✨ SECTION 2: TECH STACK -->
 <details>
   <summary><h3>🛠️ TECH STACK & SKILLS (Click to expand)</h3></summary>  
+
+  <img align="right" src="https://i.pinimg.com/1200x/61/a3/11/61a3114c47144994306eefeb09de8e39.jpg" alt="About Me Image" width="300" />
   
   **💻 Programming Languages**
   <p align="left">
