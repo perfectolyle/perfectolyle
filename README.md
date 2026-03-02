@@ -26,7 +26,7 @@
 <summary><h3>👨‍💻 ABOUT ME</h3></summary>
   
   <!-- Put your image tag right here, ABOVE the bullet points. Make sure it has align="right" -->
-  <img align="right" src="https://i.pinimg.com/736x/be/45/d4/be45d4537849e910a233ee6c4695c6d1.jpg" alt="About Me Image" width="110" />
+  <img align="right" src="https://private-user-images.githubusercontent.com/74038190/240818501-b206f421-052b-4444-bcdb-48c41c85c18b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0MzI5MjksIm5iZiI6MTc3MjQzMjYyOSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTg1MDEtYjIwNmY0MjEtMDUyYi00NDQ0LWJjZGItNDhjNDFjODVjMThiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzAyVDA2MjM0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkZWRjMDFiNWY0YWExOGU5NWQwZDJjZDVkMjMxYWZlNjM4MjY2OGFkMGI3MmRjMDc5NzA4NTMwYjk2ZDBlNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._ivf6j_6INb-SnuXFDCd_UHc49_eBx7npANK9j-iJT0" width="20%" />
   <ul>
     <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
     <li>💻 Energetically learning and building with my favorite <b>Tech Stack</b> & <b>Tools</b>.</li>
