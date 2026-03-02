@@ -11,128 +11,113 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<h3 align="center">🚀 PROJECT I'M WORKING ON</h3>
+<p align="center">
+  <a href="https://github.com/perfectolyle/Amazon-Project">
+    <img src="https://img.shields.io/badge/Amazon--Project-252739?style=for-the-badge&logo=github&logoColor=white" alt="Amazon Project Button" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER-USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ✨ SECTION 1: ABOUT ME -->
-<table border="0">
-  <tr>
-    <td width="60%">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
-        <li>💻 Energetically learning and building with my favorite <b>Tech Stack</b> & <b>Tools</b>.</li>
-        <li>🚀 Deeply interested in <b>IT Support, System Administration, and Full-Stack Development</b>.</li>
-        <li>🤝 Always looking to collaborate on tech projects and expand my IT toolkit.</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZicTJ3ZzR6NHRxenR6NHRxenR6NHRxenR6NHRxenR6NHRxenR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvMlpEshS84SIn/giphy.gif" alt="Developer Coding" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ✨ SECTION 2: GITHUB STATS -->
-<h3 align="center">📊 GitHub Statistics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perfectolyle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectolyle&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectolyle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
+<details open>
+<summary><h3>👨‍💻 ABOUT ME</h3></summary>
+  
+  <!-- Put your image tag right here, ABOVE the bullet points. Make sure it has align="right" -->
+  
+  <ul>
+    <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
+    <li>💻 Energetically learning and building with my favorite <b>Tech Stack</b> & <b>Tools</b>.</li>
+    <li>🚀 Deeply interested in <b>IT Support, System Administration, and Full-Stack Development</b>.</li>
+    <li>🤝 Always looking to collaborate on tech projects and expand my IT toolkit.</li>
+  </ul>
+  <img align="right" src="https://private-user-images.githubusercontent.com/74038190/240818501-b206f421-052b-4444-bcdb-48c41c85c18b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0MzI5MjksIm5iZiI6MTc3MjQzMjYyOSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTg1MDEtYjIwNmY0MjEtMDUyYi00NDQ0LWJjZGItNDhjNDFjODVjMThiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzAyVDA2MjM0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkZWRjMDFiNWY0YWExOGU5NWQwZDJjZDVkMjMxYWZlNjM4MjY2OGFkMGI3MmRjMDc5NzA4NTMwYjk2ZDBlNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._ivf6j_6INb-SnuXFDCd_UHc49_eBx7npANK9j-iJT0" width="20%" />
+</details>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ✨ SECTION 3: TECH STACK -->
-<h3 align="center">🛠️ Tech Stack & Skills</h3>
+<!-- ✨ SECTION 2: TECH STACK -->
+<details open>
+  <summary><h3>🛠️ TECH STACK & SKILLS</h3></summary>
 
-<div align="center">
-
-**Programming Languages**
-
-  <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="right" src="https://i.pinimg.com/1200x/61/a3/11/61a3114c47144994306eefeb09de8e39.jpg" alt="About Me Image" width="300" />
+  
+  **💻 Programming Languages**
+  <p align="left">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   </p>
 
-**Frontend & Styling**
+**🗄️ Databases**
 
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <p align="left">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   </p>
 
-**Backend & Frameworks**
+**🌐 Markup & Styling**
 
-  <p>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/NativeWind-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <p align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/NativeWind-000000?style=for-the-badge&logo=react&logoColor=white" alt="NativeWind" />
   </p>
 
-**Databases & Tools**
+**⚛️ Frameworks & Libraries**
 
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <p align="left">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   </p>
 
-</div>
+**🐳 Tools & Platforms**
+
+  <p align="left">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ✨ SECTION 4: PROJECTS -->
-<h3 align="center">🚀 Projects & Lessons</h3>
-<p align="center">
-  <b>A log of things I am currently building, learning, and experimenting with!</b>
-</p>
-
-<div align="center">
-
-|   📅 Date    | 🚀 Project / Lesson                                                     | 📝 Description                                               | 🛠️ Tech Stack Used                                                                                                                                                                                                                     |
-| :----------: | :---------------------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Feb 2026** | 🛒 **[Amazon-Project](https://github.com/perfectolyle/Amazon-Project)** | Full-featured e-commerce clone focusing on UI/UX excellence. | <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=html5" /> <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=css3" /> <img src="https://img.shields.io/badge/JS-black?style=flat&logo=javascript" /> |
-|  **Soon™**   | ✨ **Next Project**                                                     | More awesome apps and websites coming soon!                  | 🚧 _In Progress_                                                                                                                                                                                                                       |
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?user=perfectolyle&color=00F0FF&style=for-the-badge" alt="perfectolyle" />
-</p>
+<!-- ✨ SECTION 3: GITHUB STATS -->
+<details>
+  <summary><h3>📈 MY GITHUB STATS (Click to expand)</h3></summary>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectolyle&theme=tokyonight" alt="GitHub Streak" />
+  </p>
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<p align="center">
-  <i>"Always learning, always building."</i>
-</p>
+<!-- ✨ SECTION 4: PROJECTS & LESSONS -->
+<details>
+  <summary><h3>🚀 PROJECTS & LESSONS (Click to expand)</h3></summary>
+  <br>
+  <b>A log of the things I am currently building, learning, and experimenting with!</b>
+  <br><br>
+
+|   📅 Date    | 🚀 Project / Lesson                                                     | 📝 Description                                                                                                | 🛠️ Tech Stack Used                                                                                                                                                                                                                                                                         |
+| :----------: | :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Feb 2026** | 🛒 **[Amazon-Project](https://github.com/perfectolyle/Amazon-Project)** | A core interface and functionality clone of the popular e-commerce platform Amazon to master front-end UI/UX. | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JS-323330?style=flat&logo=javascript&logoColor=F7DF1E" /> |
+|  **Soon™**   | ✨ **Next Project**                                                     | More awesome apps and websites coming soon as I continue developing my Full-Stack toolkit!                    | 🚧 _In Progress_                                                                                                                                                                                                                                                                           |
+
+</details>
+
+<!-- ✨1 2 3 4 5 6 7 8 9-->
+
+<!-- ✨ SECTION 4: CONTACT -->
+<!-- <details>
+  <summary><h3>🔗 CONNECT WITH ME (Click to expand)</h3></summary>
+  <p align="center">
+    <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+  </p>
+</details> -->
