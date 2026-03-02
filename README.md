@@ -95,7 +95,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ✨ SECTION 4: PROJECTS & LESSONS -->
-<!-- ✨ SECTION 3: PROJECTS & LESSONS -->
 <details>
   <summary><h3>🚀 PROJECTS & LESSONS (Click to expand)</h3></summary>
   <br>
