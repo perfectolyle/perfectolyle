@@ -26,7 +26,7 @@
 <summary><h3>👨‍💻 ABOUT ME</h3></summary>
   <ul>
     <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
-    <li>💻 Energetically learning and building with my fasvorite<b>Tech Stack</b> & <b>Tools</b>.</li>
+    <li>💻 Energetically learning and building with my favorite <b>Tech Stack</b> & <b>Tools</b>.</li>
     <li>🚀 Deeply interested in <b>IT Support, System Administration, and Full-Stack Development</b>.</li>
     <li>🤝 Always looking to collaborate on tech projects and expand my IT toolkit.</li>
   </ul>
