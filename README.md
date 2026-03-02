@@ -24,6 +24,9 @@
 <!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
 <details open>
 <summary><h3>👨‍💻 ABOUT ME</h3></summary>
+  
+  <!-- Put your image tag right here, ABOVE the bullet points. Make sure it has align="right" -->
+  <img align="right" src="https://i.pinimg.com/736x/be/45/d4/be45d4537849e910a233ee6c4695c6d1.jpg" alt="About Me Image" width="110" />
   <ul>
     <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
     <li>💻 Energetically learning and building with my favorite <b>Tech Stack</b> & <b>Tools</b>.</li>
@@ -31,6 +34,7 @@
     <li>🤝 Always looking to collaborate on tech projects and expand my IT toolkit.</li>
   </ul>
 </details>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
