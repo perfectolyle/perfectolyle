@@ -20,6 +20,8 @@
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
 <details open>
 <summary><h3>👨‍💻 ABOUT ME</h3></summary>
@@ -32,7 +34,6 @@
     <li>🚀 Deeply interested in <b>IT Support, System Administration, and Full-Stack Development</b>.</li>
     <li>🤝 Always looking to collaborate on tech projects and expand my IT toolkit.</li>
   </ul>
-  <img align="right" src="https://private-user-images.githubusercontent.com/74038190/240818501-b206f421-052b-4444-bcdb-48c41c85c18b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0MzI5MjksIm5iZiI6MTc3MjQzMjYyOSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTg1MDEtYjIwNmY0MjEtMDUyYi00NDQ0LWJjZGItNDhjNDFjODVjMThiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzAyVDA2MjM0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkZWRjMDFiNWY0YWExOGU5NWQwZDJjZDVkMjMxYWZlNjM4MjY2OGFkMGI3MmRjMDc5NzA4NTMwYjk2ZDBlNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._ivf6j_6INb-SnuXFDCd_UHc49_eBx7npANK9j-iJT0" width="20%" />
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -41,7 +42,6 @@
 <details open>
   <summary><h3>🛠️ TECH STACK & SKILLS</h3></summary>
 
-  <img align="right" src="https://i.pinimg.com/1200x/61/a3/11/61a3114c47144994306eefeb09de8e39.jpg" alt="About Me Image" width="300" />
   
   **💻 Programming Languages**
   <p align="left">
@@ -82,6 +82,9 @@
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
+
+  <img align="right" src="https://i.pinimg.com/1200x/61/a3/11/61a3114c47144994306eefeb09de8e39.jpg" alt="About Me Image" width="300" />
+
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
