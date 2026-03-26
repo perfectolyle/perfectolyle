@@ -25,15 +25,22 @@
 <!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
 <details open>
 <summary><h3>👨‍💻 ABOUT ME</h3></summary>
-  
-  <!-- Put your image tag right here, ABOVE the bullet points. Make sure it has align="right" -->
-  
-  <ul>
-    <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
-    <li>💻 Energetically learning and building with my favorite <b>Tech Stack</b> & <b>Tools</b>.</li>
-    <li>🚀 Deeply interested in <b>IT Support, System Administration, and Full-Stack Development</b>.</li>
-    <li>🤝 Always looking to collaborate on tech projects and expand my IT toolkit.</li>
-  </ul>
+<table border="0">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
+        <li>💻 Energetically learning and building with my favorite <b>Tech Stack</b> & <b>Tools</b>.</li>
+        <li>🚀 Deeply interested in <b>IT Support, System Administration, and Full-Stack Development</b>.</li>
+        <li>🤝 Always looking to collaborate on tech projects and expand my IT toolkit.</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <!-- Added the pixel art GIF provided -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN0MmN1Y256NHRxenR6NHRxenR6NHRxenR6NHRxenR6NHRxenR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvMlpEshS84SIn/giphy.gif" alt="Developer Pixel Art" width="100%" />
+    </td>
+  </tr>
+</table>
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -42,8 +49,12 @@
 <details open>
   <summary><h3>🛠️ TECH STACK & SKILLS</h3></summary>
 
-  
-  **💻 Programming Languages**
+<table border="0">
+  <tr>
+    <td width="65%">
+
+**💻 Programming Languages**
+
   <p align="left">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -83,8 +94,13 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
 
-  <img align="right" src="https://i.pinimg.com/1200x/61/a3/11/61a3114c47144994306eefeb09de8e39.jpg" alt="About Me Image" width="300" />
+    </td>
+    <td width="35%" valign="top">
+      <img src="https://i.pinimg.com/1200x/61/a3/11/61a3114c47144994306eefeb09de8e39.jpg" alt="Rukia Kuchiki" width="100%" />
+    </td>
 
+  </tr>
+</table>
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
