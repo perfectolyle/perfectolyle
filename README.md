@@ -25,22 +25,15 @@
 <!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
 <details open>
 <summary><h3>👨‍💻 ABOUT ME</h3></summary>
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
-        <li>💻 Energetically learning and building with my favorite <b>Tech Stack</b> & <b>Tools</b>.</li>
-        <li>🚀 Deeply interested in <b>IT Support, System Administration, and Full-Stack Development</b>.</li>
-        <li>🤝 Always looking to collaborate on tech projects and expand my IT toolkit.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <!-- Added the Ame-chan pixel art GIF from @jtangc -->
-      <img src="https://raw.githubusercontent.com/jtan-gc/jtan-gc/main/assets/needy_girl_overdose.gif" alt="Ame-chan Coding" width="100%" />
-    </td>
-  </tr>
-</table>
+  
+  <!-- Put your image tag right here, ABOVE the bullet points. Make sure it has align="right" -->
+  
+  <ul>
+    <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
+    <li>💻 Energetically learning and building with my favorite <b>Tech Stack</b> & <b>Tools</b>.</li>
+    <li>🚀 Deeply interested in <b>IT Support, System Administration, and Full-Stack Development</b>.</li>
+    <li>🤝 Always looking to collaborate on tech projects and expand my IT toolkit.</li>
+  </ul>
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -49,11 +42,7 @@
 <details open>
   <summary><h3>🛠️ TECH STACK & SKILLS</h3></summary>
 
-<table border="0">
-  <tr>
-    <td width="65%" valign="top">
-
-<b>💻 Programming Languages</b>
+**💻 Programming Languages**
 
   <p align="left">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -63,14 +52,14 @@
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   </p>
 
-<b>🗄️ Databases</b>
+**🗄️ Databases**
 
   <p align="left">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   </p>
 
-<b>🌐 Markup & Styling</b>
+**🌐 Markup & Styling**
 
   <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -79,7 +68,7 @@
     <img src="https://img.shields.io/badge/NativeWind-000000?style=for-the-badge&logo=react&logoColor=white" alt="NativeWind" />
   </p>
 
-<b>⚛️ Frameworks & Libraries</b>
+**⚛️ Frameworks & Libraries**
 
   <p align="left">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -87,33 +76,24 @@
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   </p>
 
-<b>🐳 Tools & Platforms</b>
+**🐳 Tools & Platforms**
 
   <p align="left">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
 
-    </td>
-    <td width="35%" valign="middle" align="center">
-      <img src="https://i.pinimg.com/1200x/61/a3/11/61a3114c47144994306eefeb09de8e39.jpg" alt="Rukia Kuchiki" width="100%" />
-    </td>
+  <img align="right" src="https://i.pinimg.com/1200x/61/a3/11/61a3114c47144994306eefeb09de8e39.jpg" alt="About Me Image" width="300" />
 
-  </tr>
-</table>
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ✨ SECTION 3: GITHUB STATS -->
 <details>
-  <summary><h3>� MY GITHUB STATS (Click to expand)</h3></summary>
+  <summary><h3>📈 MY GITHUB STATS (Click to expand)</h3></summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=perfectolyle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectolyle&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectolyle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectolyle&theme=tokyonight" alt="GitHub Streak" />
   </p>
 </details>
 
