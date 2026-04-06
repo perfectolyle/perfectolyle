@@ -1,4 +1,4 @@
-<h1 align="center">
+sa<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+ImPerfect+%F0%9F%91%8B;Full-Stack+Developer;BS+Information+Systems+Student" alt="Typing SVG" />
 </h1>
 
@@ -41,8 +41,6 @@
 <!-- ✨ SECTION 2: TECH STACK -->
 <details open>
   <summary><h3>🛠️ TECH STACK & SKILLS</h3></summary>
-
-  <img align="right" src="https://i.pinimg.com/1200x/61/a3/11/61a3114c47144994306eefeb09de8e39.jpg" alt="About Me Image" width="300" />
 
 **💻 Programming Languages**
 
@@ -112,7 +110,7 @@
 
 </details>
 
-<!-- ✨1 2 3 4 5 6 7 8 9-->
+<!-- ✨1 2 3 4 5 6 7 8 9 123-->
 
 <!-- ✨ SECTION 4: CONTACT -->
 <!-- <details>
