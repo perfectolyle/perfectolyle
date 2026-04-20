@@ -110,7 +110,6 @@
 
 </details>
 
-<!-- ✨1 2-->
 
 <!-- ✨ SECTION 4: CONTACT -->
 <!-- <details>
