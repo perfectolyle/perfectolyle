@@ -29,7 +29,6 @@
 <details open>
 <summary><h3>👨‍💻 ABOUT ME</h3></summary>
   
-  <!-- Put your image tag right here, ABOVE the bullet points. Make sure it has align="right" -->
   
   <ul>
     <li>🎓 Currently pursuing a <b>BS in Information Systems</b>.</li>
