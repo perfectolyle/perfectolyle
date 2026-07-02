@@ -111,7 +111,9 @@
 | :----------: | :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Feb 2026** | 🛒 **[Amazon-Project](https://github.com/perfectolyle/Amazon-Project)** | A core interface and functionality clone of the popular e-commerce platform Amazon to master front-end UI/UX. | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JS-323330?style=flat&logo=javascript&logoColor=F7DF1E" /> |
 |  **Soon™**   | ✨ **Next Project**                                                     | More awesome apps and websites coming soon as I continue developing my Full-Stack toolkit!                    | 🚧 _In Progress_                                                                                                                                                                                                                                                                           |
-
+<p align="center">
+  📧 If you interested in my deployed, on production, and other system project, reach me at <a href="mailto:perfectogardoce@gmail.com">perfectogardoce@gmail.com</a>
+</p>
 </details>
 
 
