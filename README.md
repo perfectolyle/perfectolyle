@@ -22,7 +22,9 @@
     <img src="https://img.shields.io/badge/Amazon--Project-252739?style=for-the-badge&logo=github&logoColor=white" alt="Amazon Project Button" />
   </a>
 </p> -->
-
+<p align="center">
+  📧 Interested in collaborating? Reach me at <a href="mailto:perfectogardoce@gmail.com">perfectogardoce@gmail.com</a>
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ✨ SECTION 1: ABOUT ME (Open by default) -->
