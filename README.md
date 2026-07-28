@@ -15,7 +15,7 @@
 
 <h3 align="center">🚀 PROJECT I'M WORKING ON</h3>
 <h4 align="center">
-  Finished!!!
+  Finished!!
 </h4>
 <!-- <p align="center">
   <a href="https://github.com/perfectolyle/Amazon-Project">
